@@ -1,0 +1,50 @@
+.bigmario{
+    width: 100%;
+}
+body{
+    text-align: center;
+    background-image: url("background1.jpg");
+}
+.heading{
+    background-color: orange;
+}
+
+#subheading{
+    display: inline;
+}
+
+.button{
+    float: right;
+    background-color: yellow;
+}
+
+.playbutton{
+   text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    
+}
+.modal-dialog{
+    width: 80%;
+}
+
+h4{
+    text-align: center;
+    background-color: yellow;
+}
+
+.credits{
+    bottom: 0;
+    text-align: center;
+    background-color: yellow;
+    position: fixed;
+    width: 100%;
+}
+
+#canvas{
+    border: dashed;
+    border-color: yellow;
+    width: 700px;
+    height: 600px;
+    text-align: center;
+}
